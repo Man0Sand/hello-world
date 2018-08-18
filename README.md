@@ -1,2 +1,2 @@
 # hello-world
-My very first repository in the bit-continuum. For messing around.
+My very first repository in the bit-continuum. For messing around. And fooling around.
